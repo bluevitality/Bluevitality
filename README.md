@@ -4,6 +4,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Bluevitality&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 ### Hi there 👋
+---
 😄 很高兴您点击了我的主页
 
 - 🔭 我是个 Linux 运维工程师，兴趣是 CNCF 方向
