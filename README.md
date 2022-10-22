@@ -16,4 +16,4 @@
 
 ![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)
 
-[![Bluevitality's github activity graph](https://activity-graph.herokuapp.com/graph?username=Bluevitality&theme=minimal)]
+![Bluevitality's github activity graph](https://activity-graph.herokuapp.com/graph?username=Bluevitality&theme=minimal)
