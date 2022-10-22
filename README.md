@@ -7,7 +7,7 @@
 
 😄 很高兴您点击了我的主页
 
-- 🔭 职业是 Linux 运维工程师，兴趣是 CloudNative 方向
+- 🔭 职业是 Linux 运维工程师，兴趣是 CloudNative
 - 🌱 公开了运维笔记的仓库：`Repository`
 - 📫 网易邮箱： inmoonloght@163.com
 - ⚡ 希望这些运维笔记能帮到您
