@@ -12,5 +12,4 @@
 - ⚡ 希望这些运维笔记能帮到您
 
 ![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)
-
-![Bluevitality's github activity graph](https://activity-graph.herokuapp.com/graph?username=Bluevitality&theme=minimal)
+![Bluevitality's github activity graph](https://activity-graph.herokuapp.com/graph?username=Bluevitality&theme=minimal&custom_title=Frequency&radius=0&hide_border=true)
