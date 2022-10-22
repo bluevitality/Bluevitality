@@ -9,7 +9,7 @@
 
 - 👨‍💻 职业是 Linux 运维，兴趣是 CloudNative
 - 🌱 公开了运维笔记的仓库: `Repository`
-- 📫 网易邮箱：inmoonloght@163.com
 - ⚡ 希望这份运维笔记可以帮到您
+- 📫 Mail: inmoonloght@163.com
 
 ![Bluevitality's github activity graph](https://activity-graph.herokuapp.com/graph?username=Bluevitality&theme=minimal&custom_title=Frequency&radius=0&hide_border=true)
