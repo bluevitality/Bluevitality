@@ -15,3 +15,5 @@
 - ⚡ 希望我写下的东西能帮到您
 
 ![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)
+
+[![Bluevitality's github activity graph](https://activity-graph.herokuapp.com/graph?username=Bluevitality&theme=minimal)]
