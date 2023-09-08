@@ -5,9 +5,8 @@
 
 ### Hi There 👋
 
-😄 很高兴您点击了我的主页
+😄 很高兴您点击我的主页
 
-- 👨‍💻 职业 Linux 运维开发，兴趣是 CloudNative
-- 🌱 公开了运维相关的笔记仓库 `Repository`
-- ⚡ 希望这份运维笔记能帮到您
+- 👨‍💻 职业运维开发，兴趣 CloudNative
+- 🌱 运维相关的笔记仓库 `Repository`（暂未公开）
 - 📫 Mail: inmoonloght@163.com
