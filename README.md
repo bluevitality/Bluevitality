@@ -7,6 +7,5 @@
 
 😄 很高兴您点击我的主页
 
-- 👨‍💻 职业运维开发，兴趣 CloudNative
-- 🌱 运维相关的笔记仓库 `Repository`（暂不公开）
+- 👨‍💻 运维开发，兴趣 CloudNative
 - 📫 Mail: inmoonloght@163.com
