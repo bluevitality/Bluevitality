@@ -5,7 +5,7 @@
 
 ### Hi There 👋
 
-😄 很高兴您点击我的主页
+😄 Glad you clicked my home page
 
-- 👨‍💻 运维开发，兴趣 CloudNative
+- 👨‍💻 SRE, OPS, CloudNative ...
 - 📫 Mail: inmoonloght@163.com
